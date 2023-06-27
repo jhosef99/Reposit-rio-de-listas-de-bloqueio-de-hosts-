@@ -1,0 +1,5 @@
+#Aplicativo De jogo Bch #
+
+path1.xtracloud.net
+path2.xtracloud.net		
+path3.xtracloud.net
